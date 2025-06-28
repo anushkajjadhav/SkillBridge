@@ -82,17 +82,12 @@ npx nodemon server.js
 
 Make sure your .env includes:
 
-env
-Copy
-Edit
 PORT=5050
 MONGO_URI=your_mongodb_url
 JWT_SECRET=your_secret_key
 
 ### 🌐 Frontend
 
-Copy
-Edit
 cd client
 npm install
 ng serve
