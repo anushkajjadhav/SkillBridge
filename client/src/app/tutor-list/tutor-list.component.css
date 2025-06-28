@@ -1,0 +1,5 @@
+/* Optional if not using global Tailwind config
+:host {
+  display: block;
+}
+ */
